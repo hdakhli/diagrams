@@ -1,1 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T18:54:51.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BxBjUc9cYXFYsxQvbGJQ" version="20.5.1" type="github"><diagram id="O059o2RbelGLcB2xG4wM" name="Page-1">7VdRb5swEP41PG4CnNDkcU2yVVrTRoqmbU+TB1dwZThkTID9+plgcAgrajtFrNKe4vt8tu+++3wmFlnF5SdB02iLAXDLtYPSImvLdR13uVA/NVI1yJVLGiAULNBOBtizX6BBW6M5CyDrOUpELlnaB31MEvBlD6NCYNF3e0DePzWlIQyAvU/5EP3KAhk16MK9MvgNsDBqT3a8ZTMT09ZZZ5JFNMDiBCIbi6wEomxGcbkCXpPX8tKs+/jEbBeYgEQ+Z8EN/FiX5OHw+Z7d3j/u7Lm4u3s3b3Y5UJ7rhHWwsmoZgEARok0UMsIQE8o3Br0WmCcB1MfYyjI+t4ipAh0FPoKUla4uzSUqKJIx17PNmfVBT+amoQxz4cNIQq1GqAhBjvjNugoo6QLGIEWl1gngVLJDPw6qNRR2foZmNdBMv4B1bwqSFZWi+lavfz9vze96u6OxLntWpa0JiuP+ZXGOSz8IQasThxRZIrOTnXc1oBx0ryILfVF1pxrcpzN/ZznqrwZNBEYmXSqvV87iv3JGlUOmUM7MfZlyvHH/yyjHGXT6LWWJQnYCfciygbCMbGoNFBGTsE/psUqFeuv/1MEPICSU48UeFqe9f7M+K+31Ksyz67TERSdPrmdfqEu7A8Y6qmyVisdVANc/hRqF9Wi1+2LV8Sku7C3EqCOYklKHnAnNm5pTMsKp+yY4nXv/GqezN8/p+dW/JKfKNN/cTXM1/1zI5jc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-04T20:58:10.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dpJwIuFx3rdb5A-xk2Co" version="20.5.1" type="github">
+  <diagram id="O059o2RbelGLcB2xG4wM" name="Page-1">
+    <mxGraphModel dx="1298" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="He_Dx3fvKOiLOjP05rNN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="He_Dx3fvKOiLOjP05rNN-1" target="He_Dx3fvKOiLOjP05rNN-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="He_Dx3fvKOiLOjP05rNN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="He_Dx3fvKOiLOjP05rNN-1" target="He_Dx3fvKOiLOjP05rNN-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="220" />
+              <mxPoint x="190" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="He_Dx3fvKOiLOjP05rNN-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="He_Dx3fvKOiLOjP05rNN-1" target="He_Dx3fvKOiLOjP05rNN-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="220" />
+              <mxPoint x="620" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="He_Dx3fvKOiLOjP05rNN-1" value="Main Process" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="He_Dx3fvKOiLOjP05rNN-2" value="Process 1&lt;br&gt;CPU + Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="He_Dx3fvKOiLOjP05rNN-3" value="Process 2&lt;br&gt;CPU + Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="He_Dx3fvKOiLOjP05rNN-4" value="Process 2&lt;br&gt;CPU + Memory" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
