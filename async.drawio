@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T05:57:11.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VsHxb9g2HXhAD_2Rj1xw" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T06:03:06.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0aRqGUpC9hx1zePszVno" version="20.5.1" type="github">
   <diagram id="GDTgzpwl6AlGEdpOWveO" name="Page-1">
     <mxGraphModel dx="1298" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,17 +49,6 @@
         </mxCell>
         <mxCell id="0r8IiKB_RUEmIjIVpBx0-7" value="API 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0r8IiKB_RUEmIjIVpBx0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="0r8IiKB_RUEmIjIVpBx0-12" target="0r8IiKB_RUEmIjIVpBx0-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="210" y="238" />
-              <mxPoint x="210" y="238" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0r8IiKB_RUEmIjIVpBx0-12" value="" style="image;html=1;image=img/lib/clip_art/people/Worker_Man_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="20" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
