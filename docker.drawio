@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T22:12:11.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.2" etag="_kGwjlmm2Nw9giLaN0Dh" type="github"><diagram id="uJy5qZhOKvwUul6i01XD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-06T22:20:34.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DBHCY_tWgie9EcxkeaHz" version="20.5.2" type="github">
+  <diagram id="uJy5qZhOKvwUul6i01XD" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-1" value="Operating system" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-2" value="Docker engine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-3" value="Physical server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#999999;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000logos.net/wp-content/uploads/2017/06/Ubuntu-Logo-2004.jpg;" vertex="1" parent="1">
+          <mxGeometry x="250" y="405.86" width="50" height="28.27" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png;" vertex="1" parent="1">
+          <mxGeometry x="250" y="353" width="60" height="33.81" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-6" value="OS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-7" value="Python" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-8" value="Libs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jYrwiuFwdq36rOl1rRRB-9" value="Appli" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
