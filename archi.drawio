@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T19:53:39.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YY2XgkXoo2ZO7T_nm2c0" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T19:53:57.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zANhya-umdQTUM6ssZ59" version="20.6.0" type="github">
   <diagram id="XeitPLsjih--VH7lZSAs" name="Page-1">
-    <mxGraphModel dx="3454" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2927" dy="678" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,7 +523,7 @@
         <mxCell id="OMyN0Gsu02lCNr_6fPPk-240" value="prediction" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1127" y="1114" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OMyN0Gsu02lCNr_6fPPk-241" value="eml" style="image;html=1;image=img/lib/clip_art/networking/Email_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="OMyN0Gsu02lCNr_6fPPk-241" value="" style="image;html=1;image=img/lib/clip_art/networking/Email_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="-1819" y="984" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OMyN0Gsu02lCNr_6fPPk-242" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Réponse au client&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#999999;fontSize=20;fillColor=none;" parent="1" vertex="1">
@@ -601,7 +601,7 @@
         <mxCell id="OMyN0Gsu02lCNr_6fPPk-260" value="eml" style="image;html=1;image=img/lib/clip_art/networking/Email_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="-1809" y="994" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OMyN0Gsu02lCNr_6fPPk-261" value="eml" style="image;html=1;image=img/lib/clip_art/networking/Email_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
+        <mxCell id="OMyN0Gsu02lCNr_6fPPk-261" value="" style="image;html=1;image=img/lib/clip_art/networking/Email_128x128.png;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="-1799" y="1004" width="30" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OMyN0Gsu02lCNr_6fPPk-262" value="redis in memory" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#000000;fontSize=12;fillColor=default;" parent="1" vertex="1">
